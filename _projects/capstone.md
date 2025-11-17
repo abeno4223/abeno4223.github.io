@@ -31,6 +31,7 @@ This Python application is a data-driven recommendation service for Video Games,
 [Full Capstone Report](/assets/pdfs/AlexandraBenoCapstone.pdf)
 <br><i>Full Capstone Report</i>
 
+
 ## Source Code
 
 [Source Code]({{ page.github }})

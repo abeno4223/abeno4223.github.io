@@ -11,6 +11,8 @@ github: "https://github.com/abeno4223/abeno-portfolio/tree/main/Project%20-%20Bi
 
 This Java application provides a functional user interface to manage the inventory and products of a fictional bike shop. Allows the user to manage the inventory levels, prices, and associated parts of products. Utilizes object-oriented design as well as extensive documentation to ensure that the system is maintainable and scalable. Won a Western Governors University Excellence Award.
 
+
+
 ## Features
 
 - View and Search all Parts and Products in Stock
@@ -28,6 +30,7 @@ This Java application provides a functional user interface to manage the invento
 
 [Western Governors University Excellence Award](/assets/pdfs/wguaward.pdf)
 <br><i>Western Governors University Excellence Award</i>
+
 
 ## Source Code
 

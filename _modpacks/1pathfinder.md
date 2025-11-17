@@ -37,7 +37,7 @@ It is recommended that you download this modpack through the <a href="https://pr
 
 ## Trailer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7MOwGXlQ4rA?si=8GBMa5VepH78IKdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="150" src="https://www.youtube.com/embed/7MOwGXlQ4rA?si=8GBMa5VepH78IKdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <i>The original trailer for Pathfinder</i>
 
 

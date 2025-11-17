@@ -7,6 +7,8 @@ thumbnail: "/assets/thumbs/bikeshop.PNG"
 github: "https://github.com/abeno4223/abeno-portfolio/tree/main/Project%20-%20Bike%20Shop%20Inventory%20System%20-%20Java"
 ---
 
+# Bike Shop Inventory Management System
+
 ## Overview
 
 This Java application provides a functional user interface to manage the inventory and products of a fictional bike shop. Allows the user to manage the inventory levels, prices, and associated parts of products. Utilizes object-oriented design as well as extensive documentation to ensure that the system is maintainable and scalable. Won a Western Governors University Excellence Award.

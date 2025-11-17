@@ -7,6 +7,8 @@ thumbnail: "/assets/thumbs/delivery.PNG"
 github: "https://github.com/abeno4223/abeno-portfolio/tree/main/Project%20-%20Delivery%20Truck%20Routing%20-%20Python"
 ---
 
+# WGUPS Delivery Truck Routing
+
 ## Overview
 
 This Python application is designed to assist a fictional delivery company, WGUPS, in its efficient delivery of 40 packages to different locations. Using the nearest neighbor self-adjusting algorithm, the program effectively routes the company's three delivery trucks and two drivers and ensures that all packages are delivered well below the target mileage. It accounts for the special properties of each package, such as designated arrival time or if they need to be bundled with other packages. The program also allows the user to view the status of the packages at the end of the day, or at desired times throughout the day.

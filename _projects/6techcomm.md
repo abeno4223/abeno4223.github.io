@@ -6,6 +6,8 @@ thumbnail: "/assets/thumbs/techcomm.png"
 github: "https://github.com/abeno4223/abeno-portfolio/tree/main/Technical%20Communication"
 ---
 
+# Technical Communication
+
 ## Overview
 
 These projects are documents involved in the communication of proposals and ideas at a fictional company.

@@ -7,6 +7,8 @@ thumbnail: "/assets/thumbs/databases.png"
 github: "https://github.com/abeno4223/abeno-portfolio/tree/main/Database%20Management"
 ---
 
+# Database Management Projects
+
 ## Overview
 
 These projects are associated with the design and manipulation of databases in SQL.

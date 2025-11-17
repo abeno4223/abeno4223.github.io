@@ -3,7 +3,7 @@ layout: default
 title: "Bike Shop Inventory Management System"
 subtitle: "C482 Software Project"
 lan: "Java"
-thumbnail: "/assets/thumbs/bikeshop.png"
+thumbnail: "/assets/thumbs/bikeshop.PNG"
 github: "https://github.com/abeno4223/abeno-portfolio/tree/main/Project%20-%20Bike%20Shop%20Inventory%20System%20-%20Java"
 ---
 
@@ -19,9 +19,9 @@ This Java application provides a functional user interface to manage the invento
 
 ## Screenshots
 
-![Main Form](/assets/img/bikeshopmain.png)
+![Main Form](/assets/img/bikeshopmain.PNG)
 <br><i>The Main Menu</i><br>
-![Example Product Modification](/assets/img/bikeshopmodify.png)
+![Example Product Modification](/assets/img/bikeshopmodify.PNG)
 <br><i>Example Modification of a Product</i><br>
 
 ## Excellence Award

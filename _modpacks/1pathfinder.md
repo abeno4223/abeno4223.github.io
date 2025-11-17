@@ -6,7 +6,11 @@ lan: "Project Lead"
 thumbnail: "/assets/thumbs/pathfinder.png"
 ---
 
-![Pathfinder Header](/assets/img/pathfinderheader.png)
+
+<div style="text-align: center;">
+  <img src="/assets/img/pathfinderheader.png" alt="Pathfinder Header">
+</div>
+
 
 ## Overview
 

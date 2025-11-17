@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-I am Alexandra Beno, a Software Developer with experience in application design and project management. Below, you will find a collection of projects created throught my career and time as a student.
+I am Alexandra Beno, a Software Developer with experience in application design and project management. Below, you will find a collection of projects created throughout my career and time as a student.
 
 
 # WGU Projects

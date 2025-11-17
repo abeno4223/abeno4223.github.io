@@ -28,15 +28,7 @@ This project proposes the implementation of the <a href="https://linear.app/">Li
 [Linear Proposal](/assets/pdfs/linearproposal.pdf)
 <br><i>Full Linear Implementation Proposal</i><br>
 
-<iframe
-  width="560"
-  height="315"
-  src="https://youtu.be/Yy3X9VUiz1Q"
-  title="Linear Proposal Presentation"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yy3X9VUiz1Q?si=xcRw5xLd9b2UOj-X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><i>Linear Proposal Presentation</i>
 
 

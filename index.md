@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+# Welcome
+
+I am Alexandra Beno, a Software Developer with experience in application programming and project management. Below, you will find a collection of projects created throught my career and time as a student.
+
+
 # WGU Projects
 
 Computer Science Projects created in the pursuit of a Bachelor's Degree in Computer Science at Western Governors University.

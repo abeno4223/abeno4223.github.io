@@ -7,6 +7,8 @@ thumbnail: "/assets/thumbs/capstone.png"
 github: "https://github.com/abeno4223/abeno-portfolio/tree/main/Computer%20Science%20Capstone"
 ---
 
+# Video Game Recommendation Service
+
 ## Overview
 
 This Python application is a data-driven recommendation service for Video Games, powered by machine learning. It offers the user a personalized video game title recommendation based on a preferred input game. Uses a publicly available dataset from Steam and machine learning algorithms to sort games and deliver comprehensive data analysis. Hosted as a Jupyter Notebook using Google Colab, created as a capstone project for Western Governors University.

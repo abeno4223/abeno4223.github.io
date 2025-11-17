@@ -31,7 +31,7 @@ This Java application provides a functional user interface to manage the invento
 <div class="pdf-wrapper">
   <embed src="/assets/pdfs/wguaward.pdf" type="application/pdf">
 </div>
-<br><i>Western Governors University Excellence Award</i>
+<a href="/assets/pdfs/wguaward.pdf" class="pdf-link">View PDF</a>
 
 
 ## Source Code

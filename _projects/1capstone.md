@@ -33,6 +33,7 @@ This Python application is a data-driven recommendation service for Video Games,
 <div class="pdf-wrapper">
   <embed src="/assets/pdfs/AlexandraBenoCapstone.pdf" type="application/pdf">
 </div>
+<a href="/assets/pdfs/AlexandraBenoCapstone.pdf" class="pdf-link">View PDF</a>
 <br><i>Full Capstone Report</i>
 
 

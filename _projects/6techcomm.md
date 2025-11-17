@@ -19,6 +19,7 @@ This project proposes the design and implementation of a fictional AI-powered We
 <div class="pdf-wrapper">
   <embed src="/assets/pdfs/forecastaiproposal.pdf" type="application/pdf">
 </div>
+<a href="/assets/pdfs/forecastaiproposal.pdf" class="pdf-link">View PDF</a>
 <br><i>Complete ForecastAI Proposal</i>
 
 
@@ -32,7 +33,7 @@ This project proposes the implementation of the <a href="https://linear.app/">Li
 <div class="pdf-wrapper">
   <embed src="/assets/pdfs/linearproposal.pdf" type="application/pdf">
 </div>
-<br><i>Full Linear Implementation Proposal</i><br>
+<a href="/assets/pdfs/linearproposal.pdf" class="pdf-link">View PDF</a>
 
 <iframe width="300" height="175" src="https://www.youtube.com/embed/Yy3X9VUiz1Q?si=xcRw5xLd9b2UOj-X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><i>Linear Proposal Presentation</i>

@@ -20,6 +20,7 @@ In this project, a fictional Movie Rental Store is seeking to extract informatio
 <div class="pdf-wrapper">
   <embed src="/assets/pdfs/moviedatabase.pdf" type="application/pdf">
 </div>
+<a href="/assets/pdfs/moviedatabase.pdf" class="pdf-link">View PDF</a>
 <br><i>Movie Rental Database Report</i>
 
 
@@ -31,6 +32,7 @@ This project features the construction of a database to assist a fictional Coffe
 <div class="pdf-wrapper">
   <embed src="/assets/pdfs/coffeedatabase.pdf" type="application/pdf">
 </div>
+<a href="/assets/pdfs/coffeedatabase.pdf" class="pdf-link">View PDF</a>
 <br><i>Coffee Shop Database Report</i>
 
 

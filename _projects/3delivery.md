@@ -31,6 +31,7 @@ This Python application is designed to assist a fictional delivery company, WGUP
 <div class="pdf-wrapper">
   <embed src="/assets/pdfs/Delivery.pdf" type="application/pdf">
 </div>
+<a href="/assets/pdfs/Delivery.pdf" class="pdf-link">View PDF</a>
 <br><i>Full Delivery System Report</i>
 
 ## Source Code

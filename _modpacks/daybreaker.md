@@ -10,7 +10,7 @@ thumbnail: "/assets/thumbs/daybreaker.png"
 
 ## Overview
 
-Feed the Beast Horizons: Daybreaker is a custom <a href="https://www.minecraft.net/en-us/about-minecraft">Minecraft</a> modpack and a sequel to the previous Feed the Beast Horizons release for 1.6.4. Aiming to show off mods new to the realm of FTB, Daybreaker incorporates creations like Matter Overdrive, Aura Cascade, and even the beloved Mekanism and Galacticraft. Build your power with the most recent innovations in this pack downloaded by over a hundred thousand players!
+Feed the Beast Horizons: Daybreaker is a custom <a href="https://www.minecraft.net/en-us/about-minecraft">Minecraft</a> modpack and a sequel to the previous Feed the Beast Horizons release for 1.6.4. Aiming to show off mods new to the realm of FTB, Daybreaker incorporates creations like Matter Overdrive, Aura Cascade, and even the beloved Mekanism and Galacticraft. Build your power with the most recent innovations in this pack enjoyed by hundreds of thousands of players!
 
 For Minecraft Java version 1.7.10.
 

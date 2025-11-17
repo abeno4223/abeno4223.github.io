@@ -22,13 +22,16 @@ This Python application is designed to assist a fictional delivery company, WGUP
 ## Screenshots
 
 ![Delivery Status at End of Day](/assets/img/deliverycompletion.PNG)
-<br><i>Example Delivery Status at completion</i><br>
+<br><i>Example Delivery Status at 11:31 am</i><br>
 ![Example Status 10am](/assets/img/deliveryinprogress.PNG)
-<br><i>Example Delivery Status at 10am</i><br>
+<br><i>Example Delivery Status at 10:00 am</i><br>
 
 ## Project Report
 
-[Full WGUPS System Report](/assets/pdfs/Delivery.pdf)
+<embed src="{{ '/assets/pdfs/Delivery.pdf' | relative_url }}"
+       type="application/pdf"
+       width="100%"
+       height="400px" />
 <br><i>Full Delivery System Report</i>
 
 ## Source Code

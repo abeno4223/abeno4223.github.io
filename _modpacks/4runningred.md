@@ -6,7 +6,7 @@ lan: "Sole Developer"
 thumbnail: "/assets/thumbs/runningred.png"
 ---
 
-
+![Running Red Header](/assets/img/runningredlogo.png)
 
 ## Overview
 

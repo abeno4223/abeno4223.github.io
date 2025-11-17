@@ -10,7 +10,7 @@ thumbnail: "/assets/thumbs/pathfinder.png"
 
 ## Overview
 
-Pathfinder is a custom Minecraft modpack featuring an unparalleled sci-fi adventure. The player begins in a starship traveling through space, and must progress by teleporting to a variety of unusual and diverse planets. After facing off against a blend of special, non-combat challenges and puzzles, the player will begin building their own planets to explore. Features custom scripting, event triggers, configurations, and story-based quests that create a unique experience enjoyed by tens of thousands of players.
+Pathfinder is a custom <a href="https://www.minecraft.net/en-us/about-minecraft">Minecraft</a> modpack featuring an unparalleled sci-fi adventure. The player begins in a starship traveling through space, and must progress by teleporting to a variety of unusual and diverse planets. After facing off against a blend of special, non-combat challenges and puzzles, the player will begin building their own planets to explore. Features custom scripting, event triggers, configurations, and story-based quests that create a unique experience enjoyed by tens of thousands of players.
 
 For Minecraft Java version 1.7.10.
 

@@ -10,7 +10,7 @@ thumbnail: "/assets/thumbs/runningred.png"
 
 ## Overview
 
-Running Red is a custom skyblock Modpack for Minecraft that features unique mechanics, overhauled textures, story-based quests, and brand-new recipes. Stranded on a small island in the middle of a void-like purgatory, the player must escape using the power of their own blood. Every resource can be obtained in this desolate realm, but the price is often high. Build a new paradise in the sky, but beware of the cost in this ghastly adventure that won second place in the <a href="https://forum.feed-the-beast.com/threads/introducing-jampacked.47344/">JamPacked</a> competition.
+Running Red is a custom skyblock Modpack for <a href="https://www.minecraft.net/en-us/about-minecraft">Minecraft</a> that features unique mechanics, overhauled textures, story-based quests, and brand-new recipes. Stranded on a small island in the middle of a void-like purgatory, the player must escape using the power of their own blood. Every resource can be obtained in this desolate realm, but the price is often high. Build a new paradise in the sky, but beware of the cost in this ghastly adventure that won second place in the <a href="https://forum.feed-the-beast.com/threads/introducing-jampacked.47344/">JamPacked</a> competition.
 
 For Minecraft Java version 1.6.4.
 

@@ -28,10 +28,9 @@ This Python application is designed to assist a fictional delivery company, WGUP
 
 ## Project Report
 
-<embed src="{{ '/assets/pdfs/Delivery.pdf' | relative_url }}"
-       type="application/pdf"
-       width="100%"
-       height="400px" />
+<div class="pdf-wrapper">
+  <embed src="/assets/pdfs/Delivery.pdf" type="application/pdf">
+</div>
 <br><i>Full Delivery System Report</i>
 
 ## Source Code

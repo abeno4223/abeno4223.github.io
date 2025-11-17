@@ -28,10 +28,9 @@ This Java application provides a functional user interface to manage the invento
 
 ## Excellence Award
 
-<embed src="{{ '/assets/pdfs/wguaward.pdf' | relative_url }}"
-       type="application/pdf"
-       width="100%"
-       height="400px" />
+<div class="pdf-wrapper">
+  <embed src="/assets/pdfs/wguaward.pdf" type="application/pdf">
+</div>
 <br><i>Western Governors University Excellence Award</i>
 
 

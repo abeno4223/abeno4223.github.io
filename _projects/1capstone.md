@@ -30,10 +30,9 @@ This Python application is a data-driven recommendation service for Video Games,
 
 ## Project Report
 
-<embed src="{{ '/assets/pdfs/AlexandraBenoCapstone.pdf' | relative_url }}"
-       type="application/pdf"
-       width="100%"
-       height="400px" />
+<div class="pdf-wrapper">
+  <embed src="/assets/pdfs/AlexandraBenoCapstone.pdf" type="application/pdf">
+</div>
 <br><i>Full Capstone Report</i>
 
 

@@ -3,7 +3,7 @@ layout: default
 title: "WGUPS Delivery Truck Routing"
 subtitle: "C950 Data Structures Project"
 lan: "Python"
-thumbnail: "/assets/thumbs/delivery.png"
+thumbnail: "/assets/thumbs/delivery.PNG"
 github: "https://github.com/abeno4223/abeno-portfolio/tree/main/Project%20-%20Delivery%20Truck%20Routing%20-%20Python"
 ---
 

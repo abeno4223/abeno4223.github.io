@@ -21,9 +21,9 @@ This Java application provides a functional user interface to manage the invento
 
 ## Screenshots
 
-![Main Form](/assets/img/bikeshopmain.png)
+![Main Form](/assets/img/bikeshopmain.PNG)
 <br><i>The Main Menu</i><br>
-![Example Product Modification](/assets/img/bikeshopmodify.png)
+![Example Product Modification](/assets/img/bikeshopmodify.PNG)
 <br><i>Example Modification of a Product</i><br>
 
 ## Excellence Award

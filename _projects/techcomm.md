@@ -1,0 +1,45 @@
+---
+layout: default
+title: "Technical Communication"
+subtitle: "C768 Technical Communication"
+thumbnail: "/assets/thumbs/techcomm.png"
+github: "https://github.com/abeno4223/abeno-portfolio/tree/main/Technical%20Communication"
+---
+
+## Overview
+
+These projects are documents involved in the communication of proposals and ideas at a fictional company.
+
+
+
+## ForecastAI Implementation Proposal
+
+This project proposes the design and implementation of a fictional AI-powered Weather Prediction technology. It outlines the strengths and weaknesses of a prediction service currently implemented by a fictional company, and how this new technology could improve customer sentiment and company outcomes. The project outlines how this new solution would be developed, including objectives, costs, methodology, timelines, and success criteria, allowing the company to make an informed decision on the implementation of the project.
+
+[ForecastAI Proposal](/assets/pdfs/forecastaiproposal.pdf)
+<br><i>Complete ForecastAI Proposal</i>
+
+
+
+## Linear Implementation Proposal
+
+This project proposes the implementation of the <a href="https://linear.app/">Linear</a> issue-tracking application at the fictional Beno Software Company. The project includes a research summary, proposal, executive summary, FAQ, and a press release. It also includes an email inviting colleagues to a meeting on the subject, as well as a recorded presentation of that meeting.
+
+[Linear Proposal](/assets/pdfs/linearproposal.pdf)
+<br><i>Full Linear Implementation Proposal</i><br>
+
+<iframe
+  width="560"
+  height="315"
+  src="https://youtu.be/Yy3X9VUiz1Q"
+  title="Linear Proposal Presentation"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+<br><i>Linear Proposal Presentation</i>
+
+
+## Source Code
+
+[Source Code]({{ page.github }})

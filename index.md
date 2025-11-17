@@ -26,7 +26,7 @@ Computer Science Projects created in the pursuit of a Bachelor's Degree in Compu
 
 A collection of custom <a href="https://www.minecraft.net/en-us/about-minecraft">Minecraft</a> modpacks created as an employee of <a href="https://feed-the-beast.com/">Feed the Beast</a>, a member of the Phoenix Team, or independently.
 
-<div class="projects-grid">
+<div class="modpacks-grid">
   {% for project in site.modpacks %}
   <div class="project-card">
     {% if project.thumbnail %}

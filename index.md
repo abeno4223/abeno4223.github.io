@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# CS Projects
+# WGU Projects
 
 Computer Science Projects created in the pursuit of a Bachelor's Degree in Computer Science at Western Governors University.
 
@@ -20,3 +20,14 @@ Computer Science Projects created in the pursuit of a Bachelor's Degree in Compu
   </div>
   {% endfor %}
 </div>
+
+
+test
+<ul>
+  {% assign img_files = site.static_files | where_exp: "file", "file.path contains 'assets/img/'" %}
+  {% for file in img_files %}
+    <li>
+      <a href="{{ file.path | relative_url }}">{{ file.name }}</a>
+    </li>
+  {% endfor %}
+</ul>
